@@ -46,16 +46,6 @@ The banner includes:
 - Quick links to important pages.
 - Copyright and contact information.
 
-## 5.  Validation and Alerts
-
-- Prevents over-selection of players (maximum 6).
-- Avoids duplicate selections.
-- Ensures sufficient coins are available for player purchases.
-- Feedback is delivered through toast notifications for a seamless experience.
-## 6 . Additional Features
-
-- Newsletter subscription and a well-designed footer enhance the user experience.
-- Users can switch between "Available Players" and "Selected Players" views with ease.
 
 
 
